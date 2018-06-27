@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FullScreenWebViewTest</string>
+    <string name="web_view_title">Web View Title</string>
+    <string name="show_webview">Show Web View</string>
+</resources>
